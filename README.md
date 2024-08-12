@@ -133,15 +133,15 @@
 
 <h2 align="left"><img src = "https://www.svgrepo.com/show/475654/github-color.svg" width="25px" height="25px"> My Github Stats <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"></h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=supratitdatta&show_icons=true&locale=en&layout=compact&theme=transparent&show_icons=true" alt="supratitdatta" />
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=supratitdatta&show_icons=true&locale=en&theme=transparent&show_icons=true" alt="supratitdatta" height="220px" width="400px"/>
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supratitdatta&show_icons=true&locale=en&layout=compact&theme=transparent&show_icons=true" alt="supratitdatta" height="220px" width="315px"/>
+</div>
 </p>
 
-<div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=supratitdatta&show_icons=true&locale=en&theme=transparent&show_icons=true" alt="supratitdatta" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=supratitdatta&theme=transparent&show_icons=true" alt="supratitdatta" />
-</div>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supratitdatta&theme=transparent&show_icons=true" alt="supratitdatta" height="200px"/>
 </p>
 
 <br>
