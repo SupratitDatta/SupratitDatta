@@ -7,7 +7,7 @@
 <h3 align="center">{ Your work is impressive, but together we can take it to the next level }</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supratitdatta&label=Profile%20views&color=0e75b6&style=flat" alt="supratitdatta" height="30"/> </p>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0NzkwMjIsIm5iZiI6MTcyMzQ3ODcyMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEyVDE2MDUyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwZTBjOTNhZTViNzY2NTk0MTBjM2ZmMWExNDY0NmFlMjk3ODJjOGJjMmJhNjUwMjIxNDQ0YzdkZTUzNWRjYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.l4tk7GFvaxvqD4gyOIadGC0gVNOMAL1anNCqv84-7pg">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - <img src = "https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg" width = 25px> Name : **SUPRATIT DATTA** 
 - <img src = "https://cdn2.iconfinder.com/data/icons/colored-simple-circle-volume-04/128/circle-flat-general-53623030e-512.png" width = 25px> Occupation : **Student**
@@ -15,6 +15,7 @@
 - <img src = "https://cdn-icons-png.freepik.com/512/3183/3183012.png" width = 25px> Location : **Kolkata, India**
 - <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **MERN, DSA, Android, ML, Blockchain**
 - <img src = "https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" width = 25px> How to reach me :  **supratitdatta@gmail.com**
+- <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://supratit-datta-portfolio.vercel.app/
   
 <br>
 
