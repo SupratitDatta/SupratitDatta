@@ -22,23 +22,23 @@
 <h2 align="left">🌐 Connect with me <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40px" height="40px"></h2>
 <p align="center">
     
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/supratit_datta" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Codeforces-%23ee1c1c.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="30" width="120" /></a>
+<a href="https://codeforces.com/profile/supratit_datta" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-%23ee1c1c.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Supratit" height="30" width="120" /></a>
 
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/supratit" target="blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30" width="120" /></a>
+<a href="https://www.codechef.com/users/supratit" target="blank">
+    <img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="Supratit" height="30" width="120" /></a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/u/supratit_datta/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" height="30" width="120" /></a>
+<a href="https://leetcode.com/u/supratit_datta/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Supratit" height="30" width="120" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/supratit-datta-1b902b258" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aritro Saha" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/supratit-datta-1b902b258" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Supratit" height="30" width="120" /></a>
     
 <a href="https://twitter.com/supratit_datta" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="halcyon_past" height="30" width="120" /></a>
+  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Supratit" height="30" width="120" /></a>
     
 <a href="https://www.instagram.com/its_supratit_here" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="halcyon_past" height="30" width="120" /></a>
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Supratit" height="30" width="120" /></a>
 
 </p>
 
