@@ -30,15 +30,6 @@
     
 <a href="https://www.instagram.com/its_supratit_here" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Supratit" height="30" width="120" /></a>    
-    
-<a href="https://leetcode.com/u/supratit_datta/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Supratit" height="30" width="120" /></a>
-    
-<a href="https://github.com/SupratitDatta" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Codeforces-%23ee1c1c.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Supratit" height="30" width="120" /></a>
-
-<a href="https://github.com/SupratitDatta" target="blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="Supratit" height="30" width="120" /></a>
 
 </p>
 
