@@ -1,4 +1,6 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead">
+</p>
 
 <h1 align="center">
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+👋,+Supratit+this+side!!;Welcome+to+my+Github+Profile;I'm+a+3rd+Year+Undergraduate;And+a+Full+Stack+Developer;Hustling+to+Improve+day+by+day;Feel+free+to+explore+my+repositories!;Excited+to+see+you+soon!!+%E2%9D%A3%EF%B8%8F" alt="Typing SVG" />
@@ -16,8 +18,14 @@
 - <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **MERN, DSA, Android, ML, Blockchain**
 - <img src = "https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" width = 25px> How to reach me :  **supratitdatta@gmail.com**
 - <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://supratit-datta-portfolio.vercel.app/
-  
+
 <br>
+<h2 align="left"><img src="https://github.com/user-attachments/assets/578f739b-172a-4b8f-a1f6-648ba0b12af5" width="30px" height="30px" "> Hacktoberfest 2024 <img src="https://github.com/user-attachments/assets/0e8a5418-ffc3-440b-91df-b4cb3046d83f" width="30px" height="30px" ></h2>
+<p align="center">
+   <a href="https://holopin.io/@supratitdatta">
+      <img src="https://holopin.me/supratitdatta" alt="Holopin Badges" width="full">
+   </a>
+</p>
 
 <h2 align="left">🌐 Connect with me <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40px" height="40px"></h2>
 <p align="center">
