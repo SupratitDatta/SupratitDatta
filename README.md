@@ -15,9 +15,9 @@
 - <img src = "https://cdn2.iconfinder.com/data/icons/colored-simple-circle-volume-04/128/circle-flat-general-53623030e-512.png" width = 25px> Occupation : **Student**
 - <img src = "https://cdn-icons-png.freepik.com/256/5352/5352118.png?semt=ais_hybrid" width = 25px> University : **Indian Institute of Information Technology, Nagpur**
 - <img src = "https://cdn-icons-png.freepik.com/512/3183/3183012.png" width = 25px> Location : **Kolkata, India**
-- <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **MERN, DSA, Android, ML, Blockchain**
+- <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **MERN, DSA, ML, Blockchain**
 - <img src = "https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" width = 25px> How to reach me :  **supratitdatta@gmail.com**
-- <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://supratit-datta-portfolio.vercel.app/
+- <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://supratitdatta-portfolio.vercel.app
 
 <br>
 <h2 align="left"><img src="https://github.com/user-attachments/assets/578f739b-172a-4b8f-a1f6-648ba0b12af5" width="30px" height="30px" "> Hacktoberfest 2024 <img src="https://github.com/user-attachments/assets/0e8a5418-ffc3-440b-91df-b4cb3046d83f" width="30px" height="30px" ></h2>
