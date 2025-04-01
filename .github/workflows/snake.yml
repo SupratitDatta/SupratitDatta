@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write  # Ensure the workflow has push permissions
+  contents: write
 
 jobs:
   generate:
@@ -17,15 +17,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Create output directory
       - name: Create output directory
         run: mkdir -p dist
 
-      # Step 3: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -37,13 +34,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Reset Git settings (Fixes Git push issues)
-      - name: Reset Git
-        run: |
-          git config --global --unset url.https://github.com/.insteadOf || true
-          git config --global --add safe.directory /github/workspace
-
-      # Step 5: Deploy to Output Branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
